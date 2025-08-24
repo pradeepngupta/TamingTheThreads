@@ -1,6 +1,8 @@
 Taming the Threads Demo
 This is maven java project to demonstrate the Taming the Threads concept from the linkedin newsletter 'Beyond the Stack'
+Link for the newsletter: https://www.linkedin.com/newsletters/7318612377875161089/
 
+This project contains three main demos:
 VirtualThreadLockDemo - Demonstrates the use of virtual threads in Java to handle multiple tasks concurrently. This also demonstrate the VirtualThread behavious in case of Resource Locking.
 To run the demo, execute the main method in the VirtualThreadLockDemo class. You can adjust the number of tasks and the sleep duration to see how virtual threads handle concurrency and resource locking.
 
